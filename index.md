@@ -1,3 +1,7 @@
+header_pages:
+  - index.md
+  - teaching.md
+
 ---
 layout: default
 ---
