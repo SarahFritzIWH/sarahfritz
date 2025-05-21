@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Teaching"
+permalink: /teaching/
+---
+
 <nav>
   <ul>
     <li><a href="index.html">Home</a></li>
@@ -6,12 +12,6 @@
     <li><a href="cv.html">CV</a></li>
   </ul>
 </nav>
-
----
-layout: page
-title: "Teaching"
-permalink: /teaching/
----
 
 ## Teaching
 
