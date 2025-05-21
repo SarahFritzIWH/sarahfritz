@@ -2,11 +2,6 @@
 layout: default
 ---
 
-header_pages:
-  - index.md
-  - research
-  - teaching.md
-
 <img src="profile.jpg" alt="Profile photo" style="width: 200px; border-radius: 50%;">
 
 # Hi, I'm Sarah Fritz
