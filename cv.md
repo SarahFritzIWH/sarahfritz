@@ -6,19 +6,14 @@ title: "CV"
 ## Research Experience
 
 **University of Essex**, Colchester (UK)
-
 *Visiting scholar* (November 2023)
 
-
 **University of British Columbia (UBC)**, Vancouver (CA)
-
 Visiting PhD student (Spring 2022, Spring 2023)
 
 
 **Halle Institute for Economic Research (IWH)**, Halle (DE)
-
 Student research assistant  in the Department of Structural Change and Productivity (July 2018 - Sept. 2018)
-
 
 
 ## Education
