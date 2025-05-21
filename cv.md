@@ -24,3 +24,14 @@ Student research assistant  in the Department of Structural Change and Productiv
 **Sciences Po Paris, Franco-German European campus**, Nancy (FR)
 *Bacherlor equivalent (with Distinction)* (Sept. 2014 - Aug. 2017)
 Trilingual studies in European politics and institutions, Economics, European History, Law 
+
+
+## Awards and Scholarships
+- *Summa cum Laude* (top 2% of students), Sciences Po Paris (all campuses) 2017 \\
+- Scholarship of the *German Academic Scholarship Foundation* (Studienstiftung des Deutschen Volkes) 2014-2019
+
+
+## Fun Facts about Me 🏄
+- I am a certified lifeguard (yes, I have the diploma — no, I don’t work at the pool 😉)
+- I love brunches and pasta (but who doesn't?)
+- I like hiking and once climbed The Chief in British Columbia 🇨🇦
