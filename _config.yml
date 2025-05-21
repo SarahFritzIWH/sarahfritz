@@ -3,7 +3,9 @@ email: sarah.fritz@iwh-halle.de
 description: Welcome to my website!
 show_downloads: false
 google_analytics:
-theme: jekyll-theme-midnight
+theme: jekyll-theme-minimal
+
+# Navigation menu:
 header_pages:
   - index.md
   - research.md
