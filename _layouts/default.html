@@ -23,6 +23,19 @@
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
       </header>
+      {% if site.header_pages %}
+        <nav>
+          <ul>
+            {% for page in site.header_pages %}
+              <li>
+                <a href="{{ site.baseurl }}/{{ page | replace: '.md', '.html' }}">
+                  {{ page | replace: '.md', '' | capitalize }}
+                </a>
+              </li>
+            {% endfor %}
+          </ul>
+        </nav>
+      {% endif %}
       <section>
 
       {{ content }}
