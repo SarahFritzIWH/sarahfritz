@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<img src="profile.jpg" alt="Profile photo" style="width: 150px; border-radius: 50%;">
+<img src="profile.jpg" alt="Profile photo" style="width: 200px; border-radius: 50%;">
 
 # Hi, I'm Sarah Fritz
 
