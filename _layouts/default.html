@@ -23,6 +23,9 @@
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
       </header>
+      <section>
+
+      {{ content }}
       {% if site.header_pages %}
         <nav>
           <ul>
@@ -36,9 +39,6 @@
           </ul>
         </nav>
       {% endif %}
-      <section>
-
-      {{ content }}
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
   </body>
