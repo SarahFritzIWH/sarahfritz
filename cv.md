@@ -1,15 +1,26 @@
 ---
-layout: default
+layout: page
+title: "CV"
+permalink: /cv/
 ---
 
-<img src="profile.jpg" alt="Profile photo" style="width: 200px; border-radius: 50%;">
+## Research Experience
 
-# Hi, I'm Sarah Fritz
+**University of Essex**, Colchester (UK)
+*Visiting scholar* (November 2023)
 
-I am a PhD Candidate at Halle Institute for Economic Research. My research interests lie in labor, urban, and public economics with a particular focus on place-based policies.
+**University of British Columbia (UBC)**, Vancouver (CA)
+Visiting PhD student (Spring 2022, Spring 2023)
 
-**I will be on the 2025/2026 academic job market!**
+**Halle Institute for Economic Research (IWH)**, Halle (DE)
+Student research assistant  in the Department of Structural Change and Productivity (July 2018 - Sept. 2018)
 
-You can contact me at [sarah.fritz@iwh-halle.de](sarah.fritz@iwh-halle.de).
 
-Stay tuned—more content coming soon!
+## Education
+
+**Università Commerciale Luigi Bocconi**, Milan (IT)
+*M.Sc. in Economic and Social Sciences* (Sept. 2017 - Dec. 2019)
+
+**Sciences Po Paris, Franco-German European campus**, Nancy (FR)
+*Bacherlor equivalent (with Distinction)* (Sept. 2014 - Aug. 2017)
+Trilingual studies in European politics and institutions, Economics, European History, Law 
