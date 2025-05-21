@@ -6,5 +6,5 @@ google_analytics:
 theme: jekyll-theme-minimal
 header_pages:
   - index.md
-  - research
+  - research.md
   - teaching.md
