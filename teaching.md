@@ -1,15 +1,21 @@
 ---
-layout: default
+layout: page
+title: "Teaching"
+permalink: /teaching/
 ---
 
-<img src="profile.jpg" alt="Profile photo" style="width: 200px; border-radius: 50%;">
+## Teaching
 
-# Hi, I'm Sarah Fritz
+I have four years of experience in teaching, both at the Bachelor and Master level. 
 
-I am a PhD Candidate at Halle Institute for Economic Research. My research interests lie in labor, urban, and public economics with a particular focus on place-based policies.
+*Principles of Economics*
 
-**I will be on the 2025/2026 academic job market!**
+- Bachelor level
+- Winter 2020/2021 - Winter 2023/2024
+- Latest evaluation: 1.4 (excellent)
 
-You can contact me at [sarah.fritz@iwh-halle.de](sarah.fritz@iwh-halle.de).
+Seminar on *Evidence-based Policy Advice*
 
-Stay tuned—more content coming soon!
+- Bachelor and Master level
+- Summer 2020 - Summer 2023
+- Latest evaluation: 1.5 (excellent)
