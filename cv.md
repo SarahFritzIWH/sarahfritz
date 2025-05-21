@@ -19,14 +19,11 @@ Student research assistant  in the Department of Structural Change and Productiv
 ## Education
 
 **Università Commerciale Luigi Bocconi**, Milan (IT)
-
 *M.Sc. in Economic and Social Sciences* (Sept. 2017 - Dec. 2019)
 
 
 **Sciences Po Paris, Franco-German European campus**, Nancy (FR)
-
 *Bacherlor equivalent (with Distinction)* (Sept. 2014 - Aug. 2017)
-
 Trilingual studies in European politics and institutions, Economics, European History, Law 
 
 
