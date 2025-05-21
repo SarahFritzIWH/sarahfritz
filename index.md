@@ -8,6 +8,6 @@ I am a PhD Candidate at Halle Institute for Economic Research. My research inter
 
 **I will be on the 2025/2026 academic job market!**
 
-You can contact me at sarah.fritz@iwh-halle.com.
+You can contact me at [sarah.fritz@iwh-halle.de](sarah.fritz@iwh-halle.de).
 
 Stay tuned—more content coming soon!
