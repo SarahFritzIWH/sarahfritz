@@ -6,10 +6,10 @@ permalink: /teaching/
 
 <nav>
   <ul>
-    <li><a href="index.html">Home</a></li>
-    <li><a href="research.html">Research</a></li>
-    <li><a href="teaching.html">Teaching</a></li>
-    <li><a href="cv.html">CV</a></li>
+    <li><a href="index">Home</a></li>
+    <li><a href="research">Research</a></li>
+    <li><a href="teaching">Teaching</a></li>
+    <li><a href="cv">CV</a></li>
   </ul>
 </nav>
 
