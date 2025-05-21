@@ -1,10 +1,11 @@
-header_pages:
-  - index.md
-  - teaching.md
-
 ---
 layout: default
 ---
+
+header_pages:
+  - index.md
+  - research
+  - teaching.md
 
 <img src="profile.jpg" alt="Profile photo" style="width: 200px; border-radius: 50%;">
 
