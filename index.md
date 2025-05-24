@@ -185,16 +185,11 @@ nav a {
       <h1>Hi, I'm Sarah Fritz</h1>
       <p>
         I am a PhD Candidate at Halle Institute for Economic Research (IWH). My research interests lie in labor, urban, and public economics with a particular focus on place-based policies. <br><br>
-        I will be on the 2025/2026 academic job market! <br><br>
-        You can find more about me in my CV <a href="CV_website.pdf" target="_blank">here</. <br><br>
-        Stay tuned—more content coming soon! <br><br>
-      </p>
+        <strong>I will be on the 2025/2026 academic job market!</strong>  <br><br>
+        You can find more about me in my CV <a href="CV_website.pdf" target="_blank">here</a>. <br><br>
+      Stay tuned—more content coming soon!
+    </p>
     </div>
 
   </div>
 </div>
-
-        </p>
-      </div>
-    </div>
-  </div>
