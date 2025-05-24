@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Research - Johanna Raith</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding-top: 100px; /* adjust this based on your nav height */
+      background: white;
+      color: #333;
+      line-height: 1.6;
+    }
+
+    .profile {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  gap: 30px;
+}
+
+    nav {
+      background-color: #e6e6ff;
+      padding: 10px 20px;
+      border-bottom: 1px solid #ccc;
+
+      text-align: right; /* aligns the nav content to the right */
+
+      position: fixed;
+      top: 0;
+      width: 100%;
+      z-index: 1000; /* ensures it stays on top */
+    }
+
+    nav a {
+      margin-right: 60px;
+      text-decoration: none;
+      color: #000066;
+      font-weight: bold;
+    }
+
+    nav a:hover {
+      text-decoration: underline;
+    }
+
+    .container {
+      max-width: 900px;
+      margin: 40px auto;
+      padding: 0 20px;
+    }
+
+    h1 {
+      color: #000066;
+      font-weight: normal; /* removes bold */
+      text-align: center;   /* centers the text */	
+    }
+
+    h2 {
+      color: #000066;
+      font-weight: normal; /* removes bold */	
+      text-align: left;   /* centers the text */
+    }
+
+    a {
+      color: #0066cc;
+      text-decoration: none;
+    }
+
+    a:hover {
+      text-decoration: underline;
+    }
+
+    ul {
+      padding-left: 20px;
+    }
+
+    @media (max-width: 768px) {
+  /* Stack image and text vertically */
+  .profile {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+
+  .profile img {
+    margin: 0 0 20px 0;
+  }
+
+  .text-content {
+    width: 100%;
+  }
+
+  /* Reduce font sizes */
+  body {
+    font-size: 16px;
+  }
+
+  h1 {
+    font-size: 28px;
+  }
+
+  h2 {
+    font-size: 26px;
+  }
+
+  p {
+    font-size: 16px;
+  }
+      
+  /* Center nav links on mobile */
+nav {
+  text-align: center;
+}
+
+/* Stack nav links vertically (optional, can remove if not desired) */
+nav a {
+  display: inline-block;  /* or block if you want stacked links */
+  margin: 10px;
+  font-size: 18px;
+}
+
+}
+  </style>
+</head>
+<body>
+
+  <!-- Navigation -->
+  <nav>
+    <a href="index.html#about">About Me</a>
+    <a href="research.html">Research</a>
+  </nav>
+
+  <!-- Research Section -->
+  <div class="container">
+    <h1>Research</h1>
+
+    <h2>Publications</h2>
+    <ul>
+      <li>
+        Gleicht Schulbildung soziale Unterschiede aus? – with <a href = "https://sites.google.com/view/lmergele/home"  target="_blank">Lukas Mergele</a> and <a href = "https://sites.google.com/view/larissa-zierow"  target="_blank">Larissa Zierow</a>
+      </li>
+    </ul>
+
+    <h2>Work in Progress</h2>
+    <ul>
+      <li>
+        College choices, truthtelling and its' impact on matching quality in college – with 
+        <a href="https://sites.google.com/site/dejankovacecon/" target="_blank">Dejan Kovac</a> and <a href="https://christopherneilson.github.io/" target="_blank">Christopher Neilson</a>
+      </li>
+      <li>
+        Drivers of college choice – single-authored
+      </li>
+      <li>
+        School books and Career Choices – with 
+        <a href="https://sites.google.com/view/simonwiederhold" target="_blank">Simon Wiederhold</a>
+      </li>
+    </ul>
+  </div>
+
+</body>
+</html>
